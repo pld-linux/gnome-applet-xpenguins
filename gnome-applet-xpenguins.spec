@@ -3,12 +3,12 @@
 Summary:	Cute little penguins that walk along the tops of your windows
 Summary(pl):	Ma³e pingwiny chodz±ce po okienkach
 Name:		gnome-applet-xpenguins
-Version:	2.1.0
+Version:	2.1.1
 Release:	1
 License:	GPL
 Group:		X11/Amusements
 Source0:	http://xpenguins.seul.org/%{_realname}-%{version}.tar.gz
-# Source0-md5:	005dd4ee00fa85fcf4ce04b1ce5046cf
+# Source0-md5:	0f54433233ae4904e5fd64e260c5d8ce
 URL:		http://xpenguins.seul.org/
 BuildRequires:	autoconf
 BuildRequires:	automake

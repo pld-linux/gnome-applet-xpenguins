@@ -19,8 +19,6 @@ Requires(post):	GConf2
 Requires(post):	scrollkeeper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_sysconfdir	/etc
-
 %description
 This program is a GNOME 2 panel applet that animates a friendly family
 of penguins in your root window. They drop in from the top of the

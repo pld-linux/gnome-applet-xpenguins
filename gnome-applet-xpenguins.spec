@@ -1,7 +1,7 @@
 %define		_realname	xpenguins-applet
 
 Summary:	Cute little penguins that walk along the tops of your windows
-Summary(pl):	Ma³e pingwiny chodz±ce po okienkach
+Summary(pl.UTF-8):   MaÅ‚e pingwiny chodzÄ…ce po okienkach
 Name:		gnome-applet-xpenguins
 Version:	2.1.1
 Release:	1
@@ -26,10 +26,10 @@ screen, walk along the tops of your windows, up the side of your
 windows, up the side of the screen, and sometimes even levitate with
 their genetically-modified go-go-gadget 'copter ability.
 
-%description -l pl
-To jest aplet GNOME 2 animuj±ce przyjazn± rodzinê pingwinów w g³ównym
-okienku. Spadaj± z góry ekranu, chodz± po górnych krawêdziach okienek,
-czasem nawet lewituj± korzystaj±c z wszczepionego koptera.
+%description -l pl.UTF-8
+To jest aplet GNOME 2 animujÄ…ce przyjaznÄ… rodzinÄ™ pingwinÃ³w w gÅ‚Ã³wnym
+okienku. SpadajÄ… z gÃ³ry ekranu, chodzÄ… po gÃ³rnych krawÄ™dziach okienek,
+czasem nawet lewitujÄ… korzystajÄ…c z wszczepionego koptera.
 
 %prep
 %setup -q -n %{_realname}-%{version}

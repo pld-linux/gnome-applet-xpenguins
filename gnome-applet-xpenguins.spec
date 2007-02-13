@@ -1,7 +1,7 @@
 %define		_realname	xpenguins-applet
 
 Summary:	Cute little penguins that walk along the tops of your windows
-Summary(pl.UTF-8):   Małe pingwiny chodzące po okienkach
+Summary(pl.UTF-8):	Małe pingwiny chodzące po okienkach
 Name:		gnome-applet-xpenguins
 Version:	2.1.1
 Release:	1
